@@ -27,15 +27,18 @@ Should you need guidance on how to fork, open, edit, and maintain your codespace
 ## ToDo list ✅
 **Attention**: When you complete a task, put an `x` in the middle of the brackets to mark it off your ToDo list.
 
-1. [ ] Choose which generative AI you would like to use. 
-2. [ ] Write a prompt using your prompt engineering skills asking the AI to refactor the HTML into semantic HTML for you. 
-3. [ ] Copy the HTML document and paste it in the generative AI after your prompt.
-4. [ ] Watch the AI work.
-5. [ ] Note the changes that AI made to your document. 
+1. [✅] Choose which generative AI you would like to use. 
+2. [✅] Write a prompt using your prompt engineering skills asking the AI to refactor the HTML into semantic HTML for you. 
+3. [✅] Copy the HTML document and paste it in the generative AI after your prompt.
+4. [✅] Watch the AI work.
+5. [✅] Note the changes that AI made to your document. 
    1. What is different? 
+   - Added nav, divs, sectons with alt text, etc.
    2. What stayed the same?
+   - The static infomation provided stayed the same
    3. Did the AI give any explanations?
-6. [ ] Copy and paste the refactored code to your codespace and save it. You will use it in the next activity. 
+   - Yes, explained different tags and attributes used.
+6. [✅] Copy and paste the refactored code to your codespace and save it. You will use it in the next activity. 
 
 ---
 
